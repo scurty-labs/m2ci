@@ -1,7 +1,7 @@
 Namespace m2ci
 
 #Import "<std>"
-#Import "../m2stp/m2stp"
+#Import "<m2stp>"
 
 Using std..
 Using m2stp..
